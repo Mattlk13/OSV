@@ -16,9 +16,9 @@
 ##   For more information and documentation visit:
 ##     https://github.com/bitnami/bitnami-docker-nginx
 
-FROM gcr.io/bitnami-containers/nginx:1.10.2-r4
+FROM gcr.io/bitnami-containers/nginx:1.10.3-r1
 
-ENV STACKSMITH_STACK_ID="wblmpu0" \
+ENV STACKSMITH_STACK_ID="0z8nofq" \
     STACKSMITH_STACK_NAME="nginx for Mattlk13/OSV" \
     STACKSMITH_STACK_PRIVATE="1" \
     BITNAMI_CONTAINER_ORIGIN="stacksmith"
